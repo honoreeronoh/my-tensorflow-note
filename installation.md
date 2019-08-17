@@ -15,7 +15,7 @@ tensorflowGPU版本安装（window）
 打开官方网站https://tensorflow.google.cn/install/pip?lang=python2  
 首先选择GPU支持，查看必要的软件  
 
-!photo/gpu_support.png
+!(photo/gpu_support.png)
 
 下载各软件，注意版本  
 
