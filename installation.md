@@ -15,7 +15,7 @@ tensorflowGPU版本安装（window）
 打开官方网站https://tensorflow.google.cn/install/pip?lang=python2  
 首先选择GPU支持，查看必要的软件  
 
-!(photo/gpu_support.png)
+![](https://raw.githubusercontent.com/honoreeronoh/my-tensorflow-note/master/photo/gpu_support.png)
 
 下载各软件，注意版本  
 
@@ -26,7 +26,7 @@ CUPTI就附带安装了（自定义安装，全选）
 cuDNN的安装：  
 首先打开CUDA安装目录，解压cnDNN压缩包到该目录  
 （打开控制面板，系统与安全，系统或）我的电脑右键属性，高级系统设置，下方环境变量，确定有  
-!photo/CUDAPATH.png
+![](https://raw.githubusercontent.com/honoreeronoh/my-tensorflow-note/master/photo/CUDAPATH.png)
 
 再到系统变量PATH变量中确定有  
   C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin  
